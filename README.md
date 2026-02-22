@@ -35,3 +35,4 @@ If you use this work in research or evaluation, please cite:
 
 Lionis, K. (2025–2026).
 Hykon: Conversational Governance Overlay for Large Language Models.
+https://doi.org/10.5281/zenodo.18358205
